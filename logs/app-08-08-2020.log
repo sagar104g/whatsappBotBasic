@@ -1,0 +1,20 @@
+2020-08-08T08:26:43.219Z : INFO : /home/sagar/Desktop/whatsappBot/app.js:21:12 : server started sucessfully 
+2020-08-08T08:27:27.642Z : INFO : /home/sagar/Desktop/whatsappBot/app.js:21:12 : server started sucessfully 
+2020-08-08T08:31:21.662Z : INFO : /home/sagar/Desktop/whatsappBot/app.js:21:12 : server started sucessfully 
+2020-08-08T08:31:51.790Z : INFO : /home/sagar/Desktop/whatsappBot/app.js:21:12 : server started sucessfully 
+2020-08-08T08:34:37.746Z : INFO : /home/sagar/Desktop/whatsappBot/app.js:21:12 : server started sucessfully 
+2020-08-08T08:35:13.628Z : INFO : /home/sagar/Desktop/whatsappBot/services/twillio.js:13:16 : SMd191875f1b2e436a8ae80ae526ecbc96 
+2020-08-08T08:36:09.095Z : INFO : /home/sagar/Desktop/whatsappBot/services/twillio.js:13:16 : SM1080a80ab25f4708ba368ed7b087bd8d 
+2020-08-08T08:36:24.479Z : INFO : /home/sagar/Desktop/whatsappBot/services/twillio.js:13:16 : SM75579a9497a4447486d4806363dd2231 
+2020-08-08T08:37:10.988Z : INFO : /home/sagar/Desktop/whatsappBot/services/twillio.js:13:16 : SM9d9ae34127024e82a0c7c5f8ba23497f 
+2020-08-08T09:48:10.725Z : INFO : /home/sagar/Desktop/whatsappBot/app.js:21:12 : server started sucessfully 
+2020-08-08T09:48:35.551Z : INFO : /home/sagar/Desktop/whatsappBot/app.js:21:12 : server started sucessfully 
+2020-08-08T09:51:44.274Z : INFO : /home/sagar/Desktop/whatsappBot/app.js:21:12 : server started sucessfully 
+2020-08-08T10:00:53.450Z : INFO : /home/sagar/Desktop/whatsappBot/app.js:21:12 : server started sucessfully 
+2020-08-08T10:01:41.056Z : INFO : /home/sagar/Desktop/whatsappBot/app.js:21:12 : server started sucessfully 
+2020-08-08T10:01:48.778Z : INFO : /home/sagar/Desktop/whatsappBot/services/twillio.js:13:16 : SM53e7cf0b0787419db703e4a113614d47 
+2020-08-08T10:15:32.522Z : INFO : /home/sagar/Desktop/whatsappBot/app.js:21:12 : server started sucessfully 
+2020-08-08T10:15:56.766Z : INFO : /home/sagar/Desktop/whatsappBot/services/twillio.js:14:16 : MM9cb44ed481254b74b55f50711a9f24d8 
+2020-08-08T10:36:24.201Z : INFO : /home/sagar/Desktop/whatsappBot/app.js:21:12 : server started sucessfully 
+2020-08-08T10:39:13.412Z : ERROR : /home/sagar/Desktop/whatsappBot/services/twillio.js:17:16 : Error: Too Many Requests 
+2020-08-08T10:39:13.525Z : INFO : /home/sagar/Desktop/whatsappBot/services/twillio.js:14:16 : MM8e32d0d34b0a40159a493ffe82135fc6 
